@@ -1,0 +1,18 @@
+@font-face{
+    font-family: 'Supermolot';
+    src: url('./supermolot/Supermolot-Medium.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Supermolot';
+    src: url('./supermolot/Supermolot-Bold.otf') format("opentype");
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Supermolot';
+    src: url('./supermolot/Supermolot-Thin.otf') format("opentype");
+    font-weight: thin;
+    font-style: normal;
+}
